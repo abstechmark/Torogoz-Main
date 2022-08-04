@@ -1,0 +1,30 @@
+ </div>
+    <hr class="separator" />
+    <div class="row" data-masonry='{"percentPosition": true }'>
+        <div class="col-sm-6 col-lg-4 mb-4" style="position: absolute; left: 33.3333%; top: 488px;">
+            <div class="card">
+                <div class="card-header">
+                    <div>
+                        <a href="#"><img class="rounded" src="https://avatars.githubusercontent.com/u/78202555?s=40&v=4"></a>
+                        <div class="socials">
+                            <a href="#"><img width="20" src="img/twitter.png"></a>
+                            <a href="#"><img width="20" src="https://scontent.fsal5-1.fna.fbcdn.net/v/t39.30808-6/271229438_3203331749806111_7329514479704430991_n.png?stp=dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=8631f5&_nc_ohc=zd7N0GCkW5kAX8KKRXY&_nc_ht=scontent.fsal5-1.fna&oh=00_AT-jl2Eb6Ec4AkdXGGhNlt6qY0a0OQONTVZmyZYG8PmZpA&oe=62F02993"></a>
+                            <a href="#"><img width="20" src="img/youtube.png"></a>
+                        </div>
+                    </div>
+                    <div class="student-info">
+                        <p>Jhon Doe</p>
+                        <p class="bold-text">Developer</p>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p>Agradezco a Torogoz Dev, a nuestros amigos, compañeros de estudio y mentores, por la oportunidad que nos brindan, en desarrollarnos en los temas que mas nos apasionan relacionados con bitcoin.</p>
+                    <p class="card-text"><small class="text-muted">Estudiante</small></p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
